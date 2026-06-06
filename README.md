@@ -15,7 +15,7 @@ Les expériences sont réalisées sur des datasets que je trouve de Kaggle ou d'
 Ceci est une liste des projets que j'ai pu terminer.
 
 - [Analyse des tirs à 3 points réalisés de 1996
-  à 2020 en NBA](https://nbviewer.org/github/ballagye/DataProjects/blob/main/notebooks/Project1.ipynb)
+  à 2020 en NBA](https://github.com/ballagye/DataProjects/blob/main/notebooks/Project1.ipynb)
 
 ## Travail en cours
 
