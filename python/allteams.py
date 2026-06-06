@@ -26,9 +26,10 @@ testdict = {}
 for index, value, in teams.items():
     threePointersMadeList = []
     for index, threePointersMade in enumerate(cleaned_df.items(), start=3):
-        print(index)
         if index % 4 == 0:
           threePointersMadeList.append(threePointersMade[1].iloc[1:])
     testdict[index, value] = threePointersMadeList
 
 
+   
+   
