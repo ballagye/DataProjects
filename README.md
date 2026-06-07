@@ -17,9 +17,10 @@ Ceci est une liste des projets que j'ai pu terminer.
 - [Analyse des tirs à 3 points réalisés de 1996
   à 2020 en NBA](https://github.com/ballagye/DataProjects/blob/main/notebooks/Project1.ipynb)
 
+- [Analyse des tirs à 3 points par équipe réalisés de 1996
+  à 2020 en NBA](https://github.com/ballagye/DataProjects/blob/main/notebooks/Project2.ipynb)
+
 ## Travail en cours
 
 Ceci est une liste de projets que je n'ai pas encore terminé.
-
-- [Analyse des tirs à 3 points par équipe réalisés de 1996
-  à 2020 en NBA](https://github.com/ballagye/DataProjects/blob/main/python/allteams.py)
+- work in progress..
